@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Majo29AV.props" />
+</Project>
