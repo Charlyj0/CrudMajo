@@ -62,7 +62,7 @@ namespace Majo29AV.Services.Services
                 _context.Usuarios.Add(usuario1);
                 await _context.SaveChangesAsync();
 
-                return new Response<Usuario>(usuario1);
+                return new Response<Usuario>(usuario1, "Usuario creado con exito");
 
             }
             catch (Exception ex)
