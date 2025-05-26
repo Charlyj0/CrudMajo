@@ -1,5 +1,7 @@
 ﻿using Domain.DTO;
 using Domain.Entities;
+using Microsoft.AspNetCore.Mvc;
+
 
 namespace Carlos_Jimenez.Services.Iservices
 {
@@ -10,8 +12,11 @@ namespace Carlos_Jimenez.Services.Iservices
 
         public Task<Response<Rol>> Create(RolRequest request);
 
-        public Task<Response<Rol>> Delete(int id);
         public Task<Response<Rol>> Update(RolRequest rol, int id);
+
+        public Task<Response<Rol>> Delete(int id);
+
+
 
 
 

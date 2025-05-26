@@ -105,17 +105,16 @@ namespace Majo29AV.Services.Services
                 try
                 {
                     Usuario usuario2 = await _context.Usuarios.FirstOrDefaultAsync(x => x.PkUsuario == id);
-                    if (usuario2 == null)
-                    {
-                        throw new Exception("Usuario no encontrado");
-                    }
+
+
                     usuario2.Nombre = user.Nombre;
-                    usuario2.UserName = user.UserName;
                     usuario2.Password = user.Password;
+                    usuario2.UserName = user.UserName;
                     usuario2.FkRol = user.FkRol;
-                    _context.Usuarios.Update(usuario2);
+
                     await _context.SaveChangesAsync();
-                    return new Response<Usuario>(usuario2, "Usuario actualizado correctamente");
+
+                    return new Response<Usuario>(usuario2, "Usuario Actualizado");
 
                 }
                 catch (Exception ex)

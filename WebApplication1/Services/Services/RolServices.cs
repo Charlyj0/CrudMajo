@@ -73,16 +73,12 @@ namespace Carlos_Jimenez.Services.Services
             {
                 try
                 {
-                    Rol rol3 = await _context.Roles.FirstOrDefaultAsync(x => x.PkRol == id);
-                    if (rol3 == null)
-                    {
-                        throw new Exception("Rol no encontrado");
-                    }
-                    _context.Roles.Remove(rol3);
+                    Rol Rol3 = await _context.Roles.FirstOrDefaultAsync(x => x.PkRol == id);
+
+                    _context.Roles.Remove(Rol3);
                     await _context.SaveChangesAsync();
 
-                    return new Response<Rol>(rol3, "Rol eliminado");
-
+                    return new Response<Rol>(Rol3, "Rol eliminado");
 
                 }
                 catch (Exception ex)
@@ -95,6 +91,7 @@ namespace Carlos_Jimenez.Services.Services
             {
                 throw new Exception("Ocurrio un error " + ex.Message);
             }
+
         }
 
         public async Task<Response<Rol>> Update(RolRequest rol, int id)
@@ -105,29 +102,26 @@ namespace Carlos_Jimenez.Services.Services
                 {
                     Rol rol2 = await _context.Roles.FirstOrDefaultAsync(x => x.PkRol == id);
 
-                    if (rol2 == null)
-                    {
-                        throw new Exception("Rol no encontrado");
-                    }
 
                     rol2.Nombre = rol.Nombre;
 
-                    _context.Roles.Update(rol2);
 
                     await _context.SaveChangesAsync();
 
-                    return new Response<Rol>(rol2, "Rol actualizado correctamente");
+                    return new Response<Rol>(rol2, "Rol Actualizado");
 
                 }
                 catch (Exception ex)
                 {
                     throw new Exception("Ocurrio un error " + ex.Message);
                 }
+
             }
             catch (Exception ex)
             {
                 throw new Exception("Ocurrio un error " + ex.Message);
             }
+
         }
     }
 }

@@ -1,3 +1,5 @@
+using Carlos_Jimenez.Services.Iservices;
+using Carlos_Jimenez.Services.Services;
 using Majo29AV.Context;
 using Majo29AV.Services.Iservices;
 using Majo29AV.Services.Services;
@@ -16,6 +18,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlSer
     builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddTransient<IUsuarioServices, UsuarioServices>();
+builder.Services.AddTransient<IRolServices, RolServices>();
+
 
 var app = builder.Build();
 
