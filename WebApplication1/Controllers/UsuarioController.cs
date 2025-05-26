@@ -42,8 +42,20 @@ namespace Majo29AV.Controllers
             return Ok(response);
         }
 
+        [HttpDelete]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var response = await _usuarioServices.Delete(id);
+            return Ok(response);
+        }
 
+        [HttpPut]
+        public async Task<IActionResult> Update(UsuarioRequest request, int id)
+        {
+            var response = await _usuarioServices.Update(request, id);
 
+            return Ok(response);
+        }
 
     }
 }

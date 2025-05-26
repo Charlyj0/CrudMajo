@@ -20,7 +20,7 @@ namespace Majo29AV.Services.Services
             try
             {
 
-                List<Usuario> response = await _context.Usuarios.Include(x=>x.Roles).ToListAsync();
+                List<Usuario> response = await _context.Usuarios.Include(x => x.Roles).ToListAsync();
 
                 return new Response<List<Usuario>>(response, "Lista de Usuarios");
 
@@ -41,7 +41,7 @@ namespace Majo29AV.Services.Services
                 return new Response<Usuario>(usuario, "Usuario Encontrado");
 
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 throw new Exception("Ocurrio un error " + ex.Message);
             }
@@ -70,6 +70,63 @@ namespace Majo29AV.Services.Services
                 throw new Exception("Ocurrio un error " + ex.Message);
             }
 
+        }
+
+        public async Task<Response<Usuario>> Delete(int id)
+        {
+            try
+            {
+                try
+                {
+                    Usuario usuario3 = await _context.Usuarios.FirstOrDefaultAsync(x => x.PkUsuario == id);
+                    _context.Usuarios.Remove(usuario3);
+                    await _context.SaveChangesAsync();
+
+                    return new Response<Usuario>(usuario3, "Usuario eliminado");
+
+
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception("Ocurrio un error " + ex.Message);
+                }
+
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Ocurrio un error " + ex.Message);
+            }
+        }
+
+        public async Task<Response<Usuario>> Update(UsuarioRequest user, int id)
+        {
+            try
+            {
+                try
+                {
+                    Usuario usuario2 = await _context.Usuarios.FirstOrDefaultAsync(x => x.PkUsuario == id);
+                    if (usuario2 == null)
+                    {
+                        throw new Exception("Usuario no encontrado");
+                    }
+                    usuario2.Nombre = user.Nombre;
+                    usuario2.UserName = user.UserName;
+                    usuario2.Password = user.Password;
+                    usuario2.FkRol = user.FkRol;
+                    _context.Usuarios.Update(usuario2);
+                    await _context.SaveChangesAsync();
+                    return new Response<Usuario>(usuario2, "Usuario actualizado correctamente");
+
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception("Ocurrio un error " + ex.Message);
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Ocurrio un error " + ex.Message);
+            }
         }
     }
 }
