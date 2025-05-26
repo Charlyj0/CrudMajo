@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Majo29AV.Controllers
 {
+    [ApiController]
+    [Route("api/[controller]")]
     public class UsuarioController : ControllerBase
     {
         private readonly IUsuarioServices _usuarioServices;
@@ -33,7 +35,7 @@ namespace Majo29AV.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create([FromBody]UsuarioRequest request)
+        public async Task<IActionResult> Create(UsuarioRequest request)
         {
             var response = await _usuarioServices.Create(request);
 

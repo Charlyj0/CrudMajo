@@ -40,3 +40,4 @@ C:\Users\Charly\Downloads\WebApplication1\Domain\obj\Debug\net8.0\refint\Domain.
 C:\Users\Charly\Downloads\WebApplication1\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\Charly\Downloads\WebApplication1\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
 C:\Users\Charly\Downloads\WebApplication1\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Charly\Downloads\WebApplication1\Domain\obj\Debug\net8.0\Domain.sourcelink.json

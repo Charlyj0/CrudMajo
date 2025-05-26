@@ -38,7 +38,7 @@ namespace Majo29AV.Services.Services
             {
                 Usuario usuario = await _context.Usuarios.FirstOrDefaultAsync(x => x.PkUsuario == id);
 
-                return new Response<Usuario>(usuario);
+                return new Response<Usuario>(usuario, "Usuario Encontrado");
 
             }
             catch(Exception ex)

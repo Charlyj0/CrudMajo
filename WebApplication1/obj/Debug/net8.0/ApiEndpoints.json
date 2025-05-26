@@ -1,8 +1,34 @@
 [
   {
     "ContainingType": "Majo29AV.Controllers.UsuarioController",
+    "Method": "GetUsuarios",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Majo29AV.Controllers.UsuarioController",
+    "Method": "Create",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Domain.DTO.UsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Majo29AV.Controllers.UsuarioController",
     "Method": "GetByID",
-    "RelativePath": "id",
+    "RelativePath": "api/Usuario/id",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
