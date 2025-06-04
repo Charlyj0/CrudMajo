@@ -36,7 +36,7 @@ namespace Majo29AV.Services.Services
         {
             try
             {
-                Usuario usuario = await _context.Usuarios.FirstOrDefaultAsync(x => x.PkUsuario == id);
+                Usuario usuario = await _context.Usuarios.Include(x => x.Roles).FirstOrDefaultAsync(x => x.PkUsuario == id);
 
                 return new Response<Usuario>(usuario, "Usuario Encontrado");
 
