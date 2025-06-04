@@ -1,9 +1,11 @@
 ﻿using Carlos_Jimenez.Services.Iservices;
 using Domain.DTO;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Carlos_Jimenez.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class RolController : ControllerBase

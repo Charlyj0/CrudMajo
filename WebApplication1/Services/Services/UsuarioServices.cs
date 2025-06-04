@@ -127,5 +127,13 @@ namespace Majo29AV.Services.Services
                 throw new Exception("Ocurrio un error " + ex.Message);
             }
         }
+
+        public Usuario? ValidateUser(string userName, string password)
+        {
+            return _context.Usuarios.FirstOrDefault(u =>
+                u.UserName == userName && u.Password == password);
+        }
+
+
     }
 }

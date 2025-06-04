@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Charly\\Downloads\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\services\\iservices\\irolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\services\\iservices\\irolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\carlos jimenez.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\carlos jimenez.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,30 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8EA0909-AE6C-460B-BD0A-7DD9C1904F24}|Domain\\Domain.csproj|c:\\users\\charly\\downloads\\webapplication1\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D8EA0909-AE6C-460B-BD0A-7DD9C1904F24}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\services\\iservices\\irolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\services\\iservices\\irolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\services\\services\\rolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\migrations\\20250522014129_bd29av.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|c:\\users\\charly\\downloads\\webapplication1\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{214DE7C0-5E94-459E-8839-C1253A94D771}|WebApplication1\\Carlos Jimenez.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -90,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,27 +134,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\Domain\\Domain.csproj",
-              "RelativeToolTip": "Domain\\Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Carlos Jimenez",
+              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Carlos Jimenez.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\Carlos Jimenez.csproj",
+              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Carlos Jimenez.csproj",
+              "RelativeToolTip": "WebApplication1\\Carlos Jimenez.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-04T01:19:00.495Z"
+              "WhenOpened": "2025-06-04T04:13:16.199Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "UsuarioServices.cs",
               "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Services\\Services\\UsuarioServices.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\Services\\UsuarioServices.cs",
               "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Services\\Services\\UsuarioServices.cs",
               "RelativeToolTip": "WebApplication1\\Services\\Services\\UsuarioServices.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFQAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T01:07:28.388Z"
+              "WhenOpened": "2025-06-04T01:07:28.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -152,26 +166,105 @@
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\RolController.cs",
               "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Controllers\\RolController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\RolController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:23:17.559Z"
+              "WhenOpened": "2025-05-26T22:23:17.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAjwEYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T18:49:56.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:24:58.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Services\\Iservices\\IUsuarioServices.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Iservices\\IUsuarioServices.cs",
+              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Services\\Iservices\\IUsuarioServices.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Iservices\\IUsuarioServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:22:42.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRolServices.cs",
+              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Services\\Iservices\\IRolServices.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Iservices\\IRolServices.cs",
+              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Services\\Iservices\\IRolServices.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Iservices\\IRolServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:18:01.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Models\\LoginModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:30:09.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\.gitignore",
+              "RelativeDocumentMoniker": "WebApplication1\\.gitignore",
+              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\.gitignore",
+              "RelativeToolTip": "WebApplication1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-04T01:20:11.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA9wBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:40:50.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UsuarioRequest.cs",
               "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\Domain\\DTO\\UsuarioRequest.cs",
               "RelativeDocumentMoniker": "Domain\\DTO\\UsuarioRequest.cs",
@@ -183,31 +276,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IRolServices.cs",
-              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Services\\Iservices\\IRolServices.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\Iservices\\IRolServices.cs",
-              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Services\\Iservices\\IRolServices.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\Iservices\\IRolServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T22:18:01.673Z"
+              "DocumentIndex": 13,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T01:19:00.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwDkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T17:24:58.101Z"
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T18:50:33.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -219,19 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\.gitignore",
-              "RelativeDocumentMoniker": "WebApplication1\\.gitignore",
-              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\.gitignore",
-              "RelativeToolTip": "WebApplication1\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-04T01:20:11.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\Domain\\Entities\\Rol.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Rol.cs",
@@ -243,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Context\\ApplicationDbContext.cs",
@@ -255,19 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUsuarioServices.cs",
-              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Services\\Iservices\\IUsuarioServices.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\Iservices\\IUsuarioServices.cs",
-              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Services\\Iservices\\IUsuarioServices.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\Iservices\\IUsuarioServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T16:22:42.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "RolServices.cs",
               "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Services\\Services\\RolServices.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\Services\\RolServices.cs",
@@ -279,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "RolRequest.cs",
               "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\Domain\\DTO\\RolRequest.cs",
               "RelativeDocumentMoniker": "Domain\\DTO\\RolRequest.cs",
@@ -291,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "20250522014129_BD29AV.cs",
               "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250522014129_BD29AV.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250522014129_BD29AV.cs",
@@ -303,19 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-26T18:50:33.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "20250522011603_example.cs",
               "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250522011603_example.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250522011603_example.cs",
@@ -327,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\Domain\\Entities\\Response.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Response.cs",
@@ -339,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
@@ -351,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "20250522011603_example.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Charly\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250522011603_example.Designer.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250522011603_example.Designer.cs",

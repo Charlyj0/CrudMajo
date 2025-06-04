@@ -156,5 +156,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Carlos_Jimenez.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "Carlos_Jimenez.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

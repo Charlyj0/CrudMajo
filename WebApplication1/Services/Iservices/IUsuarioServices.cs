@@ -11,6 +11,8 @@ namespace Majo29AV.Services.Iservices
         public Task<Response<Usuario>> Create(UsuarioRequest request);
         public Task<Response<Usuario>> Delete(int id);
         public Task<Response<Usuario>> Update(UsuarioRequest user, int id);
+        Usuario? ValidateUser(string userName, string password);
+
 
 
 

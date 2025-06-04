@@ -141,3 +141,4 @@ C:\Users\Charly\Downloads\WebApplication1\WebApplication1\obj\Debug\net8.0\Carlo
 C:\Users\Charly\Downloads\WebApplication1\WebApplication1\obj\Debug\net8.0\Carlos Jimenez.genruntimeconfig.cache
 C:\Users\Charly\Downloads\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\Carlos Jimenez.dll
 C:\Users\Charly\Downloads\WebApplication1\WebApplication1\obj\Debug\net8.0\Carlos Jimenez.sourcelink.json
+C:\Users\Charly\Downloads\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
